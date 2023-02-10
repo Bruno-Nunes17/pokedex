@@ -90,7 +90,7 @@ main {
     box-shadow: inset -4px 4px 0 #222;
     font-size: 0.5rem;
 }
-@media (max-width: 600px)
+@media (max-width: 720px)
 {
   img
    {
